@@ -51,6 +51,8 @@ Languages and Tools: JavaScript, Cypress, Test Reporting Tools.
 
 
 Test Scenarios Automated
+
+
 Login and Logout: Validated user authentication and session management.
 Employee Management: Automated CRUD operations for employee data.
 Leave Management: Verified leave request creation and approval workflows.
@@ -58,10 +60,3 @@ UI Validation: Tested UI elements, forms, and error messages for correctness.
 Navigation and Usability: Ensured all links and menus function seamlessly.
 
 
-
-Test Scenarios Automated
-Login and Logout: Validated user authentication and session management.
-Employee Management: Automated CRUD operations for employee data.
-Leave Management: Verified leave request creation and approval workflows.
-UI Validation: Tested UI elements, forms, and error messages for correctness.
-Navigation and Usability: Ensured all links and menus function seamlessly.
