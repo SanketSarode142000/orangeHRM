@@ -3,6 +3,8 @@ OrangeHRM Testing Project
 
 
 Project Overview
+
+
 This project showcases my work in end-to-end manual and automation testing of the OrangeHRM website. Using Cypress with the Page Object Model (POM) approach, I automated various key functionalities to ensure efficiency, accuracy, and reliability. Additionally, I prepared comprehensive manual testing documentation and provided actionable suggestions to improve the website’s functionality and user experience.
 
 Key Contributions
@@ -21,6 +23,9 @@ Generated detailed test execution reports for each test cycle.
 
 
 Manual Testing
+
+
+
 Created and executed the following testing documents:
 
 Test Plan: Defined objectives, scope, and approach.
@@ -33,6 +38,9 @@ Execution Summary: Provided a concise overview of testing results.
 
 
 Skills Demonstrated
+
+
+
 Automation Framework: Cypress
 Design Pattern: Page Object Model (POM)
 Manual Testing Documentation: Test Plans, RTM, Bug Reports, Execution Summary.
