@@ -29,9 +29,13 @@ Manual Testing
 Created and executed the following testing documents:
 
 Test Plan: Defined objectives, scope, and approach.
+
 Test Scenarios and Test Cases: Ensured maximum coverage of application workflows.
+
 Traceability Matrix (RTM): Mapped requirements to test cases for validation.
+
 Bug Reports: Documented issues with steps to reproduce, severity, and priority.
+
 Execution Summary: Provided a concise overview of testing results.
 
 
