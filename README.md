@@ -1,5 +1,7 @@
 OrangeHRM Testing Project
 
+![image](https://github.com/user-attachments/assets/e4b068a5-5a1e-454e-87b7-44551a8bf824)
+
 
 
 Project Overview
